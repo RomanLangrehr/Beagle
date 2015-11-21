@@ -195,7 +195,7 @@ name "/OC10/"
 
 \end_inset
 
-/OC10/ Beagle should determine the aproximate probability in 
+/OC10/ Beagle should determine the approximate probability in 
 \begin_inset ERT
 status open
 
@@ -208,7 +208,7 @@ glspl{branch}
 
 \end_inset
 
-, which are annotaed in the 
+, which are annotated in the 
 \begin_inset ERT
 status open
 
@@ -222,7 +222,7 @@ gls{PCM}
 \end_inset
 
 , for each case.
- If the prohability depends on the input parameters, Beagle should determine
+ If the probability depends on the input parameters, Beagle should determine
  this dependency.
 \end_layout
 
@@ -234,7 +234,7 @@ name "/OC20/"
 
 \end_inset
 
-/OC20/ The branch prohabilitys as a function of the input parameters should
+/OC20/ The branch probabilities as a function of the input parameters should
  be annotated in the 
 \begin_inset ERT
 status open
@@ -272,7 +272,7 @@ glspl{loop construct}
 
 \end_inset
 
-, which are annotaed in the 
+, which are annotated in the 
 \begin_inset ERT
 status open
 
@@ -285,7 +285,7 @@ gls{PCM}
 
 \end_inset
 
-, too, how often the loop body is executed aproximalty.
+, too, how often the loop body is executed approximately.
 \end_layout
 
 \begin_layout Labeling
