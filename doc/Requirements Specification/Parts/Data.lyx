@@ -217,8 +217,20 @@ status open
 
 \end_inset
 
- files compiled out of it, such that the files are executable on a JRE installed
- on the computer Beagle runs on, or
+ files compiled out of it, such that the files are executable on a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+gls{JRE}
+\end_layout
+
+\end_inset
+
+ installed on the computer Beagle runs on, or
 \end_layout
 
 \begin_layout Itemize
@@ -299,7 +311,7 @@ glspl{SEFF}
 \end_inset
 
 .
- They must be modelled the input 
+ They must be modelled in the input 
 \begin_inset ERT
 status open
 
@@ -477,10 +489,7 @@ name "/OD110/"
 
 \end_inset
 
- Probabilities of 
-branches to be taken 
-\lang british
-
+ Probabilities of branches to be taken 
 \begin_inset ERT
 status open
 
@@ -518,6 +527,57 @@ glspl{SEFF loop}
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset CommandInset label
+LatexCommand label
+name "/OD130/"
+
+\end_inset
+
+ Measurement status data, containing all information required to resume
+ a measurement (see 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "/OF130/"
+
+\end_inset
+
+, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "/OF140/"
+
+\end_inset
+
+, enables 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "/OF160/"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset CommandInset label
+LatexCommand label
+name "/OD140/"
+
+\end_inset
+
+ Verification data to check whether input artefacts changed (enables 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "/OF150/"
+
+\end_inset
+
+).
 \end_layout
 
 \end_body
