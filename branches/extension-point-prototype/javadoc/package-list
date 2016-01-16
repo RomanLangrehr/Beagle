@@ -7,6 +7,9 @@ de.uka.ipd.sdq.beagle.core.measurement.order
 de.uka.ipd.sdq.beagle.core.pcmconnection
 de.uka.ipd.sdq.beagle.gui
 de.uka.ipd.sdq.beagle.gui.contextmenus
+de.uka.ipd.sdq.beagle.prototypes.extensionpoint
+de.uka.ipd.sdq.beagle.prototypes.extensionpoint.measurementtoolmockup
+de.uka.sdq.beagle.measurement
 org.eclipse.core.commands
 org.eclipse.jface.dialogs
 org.eclipse.jface.wizard
