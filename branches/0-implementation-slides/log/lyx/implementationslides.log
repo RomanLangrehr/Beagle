@@ -154,8 +154,11 @@ y))) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 (/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def)))
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texmf/tex/latex/latex/KIT/beamerthemeKIT.sty
+(/usr/share/texlive/texmf-dist/tex/latex/rcs/rcs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty)
 
-! LaTeX Error: File `beamerthemeKIT.sty' not found.
+! LaTeX Error: File `uarial.sty' not found.
 
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
@@ -164,7 +167,7 @@ Enter file name:
 ! Emergency stop.
 <read *> 
          
-l.22  \newcommand
-                 \makebeamertitle{\frame{\maketitle}}%^^M
+l.34 \let
+         \KIT@fam=\sfdefault^^M
 !  ==> Fatal error occurred, no output PDF file produced!
 Transcript written on "Implementation Slides.log".
